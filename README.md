@@ -2,12 +2,12 @@
 # Winner Algorithm (XGBoost) 
 ## Pourya Ayria
 
-###Udacity Meeting (03/03/2018)
-##OutLine:
+### Udacity Meeting (03/03/2018)
+## OutLine:
 1) How XGBoost Works
+
 2) Multi CLassification(Iris dataset)
 
-2)
 1. Problem Definition
 
 2. Load the Dataset
